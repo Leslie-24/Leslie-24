@@ -11,9 +11,12 @@ Software Engineering student at the Adventist University of Central Africa (AUCA
 
 ## Selected work
 
+- **[Hotel Booking System](https://github.com/Leslie-24/hotel-booking-system)** – online reservations and a role-based admin area, built with Laravel and React
+- **[Lost and Found System](https://github.com/Leslie-24/lost-and-found-system)** – campus lost and found reporting with photo uploads and item claims, built with PHP and MySQL
 - **[Portfolio](https://github.com/Leslie-24/Portfolio)** – personal site, [live here](https://leslie-24.github.io/Portfolio/)
 - **[Classync](https://github.com/Leslie-24/classync)** – weekly class schedule app with Flutter and Firebase
 - **[Shopping List](https://github.com/Leslie-24/shopping_list)** – a simple Flutter app
+
 
 ## Get in touch
 
